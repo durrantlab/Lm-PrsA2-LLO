@@ -64,7 +64,7 @@ plugins:
         remove_tag_config:
             remove_input_tags:
                 - hide_code
-  - awesome-pages:
+  - awesome-nav:
         collapse_single_pages: true
         strict: false
         order: asc
