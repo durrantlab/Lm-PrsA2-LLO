@@ -1,6 +1,6 @@
 docs_dir: study
 
-site_name: lmprsa2llo
+site_name: Lm PrsA2-LLO
 site_author: durrantlab
 
 repo_name: durrantlab/lmprsa2llo
@@ -64,12 +64,6 @@ plugins:
         remove_tag_config:
             remove_input_tags:
                 - hide_code
-  - awesome-nav:
-        collapse_single_pages: true
-        strict: false
-        order: asc
-        sort_type: natural
-        order_by: title
   - glightbox
   - macros
   - print-site
